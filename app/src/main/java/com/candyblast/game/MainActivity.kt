@@ -1,4 +1,3 @@
-
 package com.candyblast.game
 
 import android.app.Activity
